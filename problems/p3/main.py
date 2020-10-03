@@ -1,5 +1,5 @@
 # complexity here?
-# worst case is the number is prime, so it would be number/2
+# worst case is the number is prime, so it would be number/2 ?
 # best case is the number is even so it would be log number
 def get_factors(number):
     i = 2
