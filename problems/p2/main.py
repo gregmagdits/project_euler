@@ -1,7 +1,5 @@
+from problems import is_even
 
-
-def is_even(num):
-    return num & 1 == 0
 
 def generate_fib(limit):
     sum =0
